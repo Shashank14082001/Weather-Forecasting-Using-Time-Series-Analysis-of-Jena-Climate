@@ -1,1 +1,2 @@
 # Weather-Forecasting-Using-Time-Series-Analysis-of-Jena-Climate
+This project aims to create a reliable weather forecasting system for Jena Climate using advanced methods like ARIMA or LSTM. By analyzing the dataset and using these models, we will identify patterns and trends in weather data to make accurate predictions. This will help improve understanding of climate dynamics and support decision-making for people in the Jena region.
